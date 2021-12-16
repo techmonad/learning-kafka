@@ -2,7 +2,7 @@ name := "learning-kafka"
 
 version := "0.1"
 
-scalaVersion := "2.13.5"
+scalaVersion := "2.13.7"
 
 libraryDependencies ++= Seq(
   "org.apache.kafka" % "kafka-clients" % "2.8.0",
