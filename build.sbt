@@ -5,6 +5,6 @@ version := "0.1"
 scalaVersion := "2.13.5"
 
 libraryDependencies ++= Seq(
-  "org.apache.kafka" % "kafka-clients" % "2.8.1",
-  "ch.qos.logback" % "logback-classic" % "1.2.6"
+  "org.apache.kafka" % "kafka-clients" % "2.8.0",
+  "ch.qos.logback" % "logback-classic" % "1.2.9"
 )
